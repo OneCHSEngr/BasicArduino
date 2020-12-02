@@ -42,4 +42,4 @@ void loop() {
 
 ### Reflection
 
-Pretty strightforward but very cool.  I learned about the Arduino Create Web Editor and writing to the serial monitor.  My program makes an LED blink.  If you lower the number in the delay funtion it blinks faster.
+Pretty straightforward but very cool.  I learned about the Arduino Create Web Editor and writing to the serial monitor.  My program makes an LED blink.  If you lower the number in the delay funtion it blinks faster.
